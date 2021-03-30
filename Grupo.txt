@@ -1,0 +1,22 @@
+
+-------------------------------------------------------------------------
+
+Universidade Paulista - UNIP
+
+Disciplina: Processamento de Imagem
+
+Turma: CC6P30
+
+Membros do grupo:
+
+- Eduardo Filipe de Melo Cassiano - T324IG3
+- João Vitor Alvino Costa - N337DG3
+- Anderson de Araújo Gonçalves dos Santos - N3293D2
+- Matheus Oliveira Malaquias Reis - T5654I0
+
+Descrição: 
+
+- Criação de um filtro de imagens utlizando a linguagem de programação Python.
+- Trabalho referente a disciplina de Processamento de Imagem.
+
+-------------------------------------------------------------------------
