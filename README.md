@@ -1,2 +1,2 @@
-# filtro-de-imagem
-Filtro de imagens feito em Python resultado do trabalho final referente a disciplina de Processamento de Imagens.
+# Filtro de imagem
+Image filter build in Python. It's result of final work of Images Process classes.
